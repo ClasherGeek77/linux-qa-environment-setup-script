@@ -1,4 +1,4 @@
-# UNI Linux QA Environment Setup Scripts 🛠
+# Linux QA Environment Setup Scripts 🛠
 
 A collection of fully automated shell scripts engineered to instantly provision Linux environments (specifically Ubuntu) with the entire toolchain required for a QA Automation Engineer.
 
